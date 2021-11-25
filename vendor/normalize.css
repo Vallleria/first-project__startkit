@@ -31,6 +31,12 @@ body {
 main {
   display: block;
 }
+ul{
+  list-style: none;
+}
+li{
+  list-styl: none;
+}
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
@@ -75,6 +81,7 @@ pre {
 
 a {
   background-color: transparent;
+  text-decoration: none;
 }
 
 /**
@@ -147,6 +154,7 @@ sup {
 
 img {
   border-style: none;
+  max-width: 100%;
 }
 
 /* Forms
