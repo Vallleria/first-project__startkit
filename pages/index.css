@@ -6,7 +6,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/logo__place-header.css);
+@import url(../blocks/logo/logo_place-header.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
@@ -43,7 +43,7 @@
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/video/video.css);
-@import url(../blocks/video/__iframe/video__iframe.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
 
 
 /* Начало секции oakley */
@@ -125,7 +125,7 @@
 /* @import url(../blocks/section-subtitle/section-subtitle.css); */
 @import url(../blocks/resourse/resourse.css);
 @import url(../blocks/resourse/__logo-zone/resourse__logo-zone.css);
-@import url(../blocks/resourse/__logo/resourse__logo.css);
+/* @import url(../blocks/resourse/__logo/resourse__logo.css); */
 
 
 /* Начало секции Footer  */
@@ -135,10 +135,10 @@
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column_content_copyright/footer__column_content_copyright.css);
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/logo__place-header.css);
+@import url(../blocks/logo/logo_place-header.css);
 @import url(../blocks/footer/__autor/footer__autor.css);
 @import url(../blocks/footer/__columns_content_info/footer__columns_contet_info.css);
-@import url(../blocks/footer/logo__place-footer.css);
+@import url(../blocks/footer/logo_place-footer.css);
 @import url(../blocks/footer/__column_heading/footer__column_heading.css);
 @import url(../blocks/footer/__column_link/footer__column_link.css);
 @import url(../blocks/footer/__columns_content_social/footer__columns_content_social.css);
