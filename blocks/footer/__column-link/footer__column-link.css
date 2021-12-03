@@ -1,4 +1,4 @@
-.footer__column-link{
+.footer__column-link {
 
   color: #FFF;
   line-height: 18px;
@@ -8,4 +8,8 @@
   margin-bottom: 10px;
   align-items: baseline;
   display: block;
+}
+
+.footer__column-link:hover {
+  opacity: .5;
 }

@@ -1,19 +1,9 @@
-.two-columns__main-text p {
-  max-width: 921px;
-  font-family: 'Inter-Regular';
-  font-weight: normal;
-  line-height: 134%;
-  font-size: 24px;
-  color: #000;
-  padding-bottom: 30px;
-  margin: 0;
+.two-columns__main-text {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  min-width: 784px;
+
 }
 
-.two-columns__main-text p:last-of-type{
-  padding-bottom: 0;
-}
 
-span {
-  font-weight: bold;
-  font-size: 24px;
-}
