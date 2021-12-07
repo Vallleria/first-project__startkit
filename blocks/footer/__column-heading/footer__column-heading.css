@@ -1,8 +1,19 @@
-.footer__column-heading {
-  color: #FFF;
+.footer__column-link {
+  display: block;
+  text-decoration: none;
+  color: #f2f2f2;
   line-height: 18px;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: 400;
+  margin: 0 0 10px;
+  width: fit-content;
+}
+
+.footer__column-link:last-of-type {
   margin: 0;
-  padding-bottom: 20px;
+}
+
+.footer__column-link:hover {
+  opacity: .5;
+  transition: .2s;
 }

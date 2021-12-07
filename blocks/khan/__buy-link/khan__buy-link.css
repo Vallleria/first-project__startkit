@@ -3,12 +3,11 @@
   font-size: 30px;
   font-weight: 400;
   font-style: normal;
-  color:  #2f80ed;
+  color: #2f80ed;
   text-decoration: none;
-  transform: .3s;
 }
-.khan__buy-link:hover{
 
-opacity: .5;
-transition: .2s;
+.khan__buy-link:hover {
+  opacity: .5;
+  transition: .2s;
 }
